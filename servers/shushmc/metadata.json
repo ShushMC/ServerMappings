@@ -1,0 +1,40 @@
+{
+    "id": "shushmc",
+    "name": "ShushMC",
+    "addresses": [
+        "shushmc.com"
+    ],
+    "primaryAddress": "shushmc.com",
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "primaryColor": "#5e03fc",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "languages": [
+        "en"
+    ],
+    "primaryLanguage": "en",
+    "regions": [
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "website": "https://shushmc.com",
+    "store": "https://store.shushmc.com",
+    "socials": {
+        "twitter": "ShushMCNetwork",
+        "discord": "https://discord.com/invite/shushmc",
+        "youtube": "@ShushMCCOM",
+        "telegram": "ShushMC"
+    },
+    "compliance": {
+        "privacyPolicy": "https://shushmc.com/policy",
+        "rules": "https://shushmc.com/rules",
+        "support": "https://shushmc.com/support"
+    }
+}
